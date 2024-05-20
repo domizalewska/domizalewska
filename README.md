@@ -2,7 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=domizalewska&label=Profile%20views&color=0e75b6&style=flat" alt="domizalewska" /> </p>
 
-- 🌱 I’m currently learning **Python , C#**
 
 - 📫 How to reach me **domizal1801@gmail.com**
 
