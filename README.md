@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Dominika Zalewska</h1>
-<h3 align="center">A student of Informatic faculty on Wyższa Szkoła Bankowa.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=domizalewska&label=Profile%20views&color=0e75b6&style=flat" alt="domizalewska" /> </p>
 
