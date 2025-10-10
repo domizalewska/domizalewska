@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F124F7&width=435&lines=Welcome+on+my+github;I'm+Dominika+Zalewska)](https://git.io/typing-svg)
 <div>
     <img src="./assets/terminal.gif" alt="About Me Terminal GIF"/>
 </div>
