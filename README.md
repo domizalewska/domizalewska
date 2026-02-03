@@ -4,7 +4,7 @@
 </div>
 
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,symfony,rabbitmq,redis,vue,nuxt,vite,js,jquery,ts,tailwind,html,css,python,tensorflow,django,flask,cs,git,github,gitlab,docker,postman,figma,mysql,postgresql,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,symfony,rabbitmq,redis,vue,nuxt,vite,js,jquery,ts,tailwind,vue,html,css,python,tensorflow,django,flask,cs,git,github,gitlab,docker,postman,figma,mysql,postgresql,linux&theme=dark)](https://skillicons.dev)
 
 
 ### Connect with me!
